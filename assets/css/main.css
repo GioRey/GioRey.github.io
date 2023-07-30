@@ -1827,7 +1827,7 @@ input[type="submit"]:active,
 input[type="reset"]:active,
 button:active,
 .button:active {
-	background-color: #3BA8D3;
+	background-color: #33c45a;
 	top: 1px;
 }
 
