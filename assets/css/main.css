@@ -2203,6 +2203,12 @@ ul.actions li:first-child {
 	border-radius: 25px;
 }
 
+.style2.java {
+	width: 80%;
+	background-color: rgb(228, 32, 39);
+	border-radius: 25px;
+}
+
 
 .wrapper.style3 {
 	background-color: #f4f4f4;
