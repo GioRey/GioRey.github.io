@@ -328,7 +328,7 @@ const Portfolio = () => {
                 <h3 className="text-2xl font-bold text-white mb-2">Sobre mí</h3>
                 <p className="text-slate-400 text-sm">Pasión por la tecnología y la excelencia técnica.</p>
                 <div className="mt-6 flex flex-wrap gap-2">
-                  {['Liderazgo', 'Clean Code', 'Scrum', 'Mentoring'].map(skill => (
+                  {['Liderazgo', 'Clean Code', 'Scrum', 'Mentoring', 'Flutter', 'Node.js', 'Android/iOS', 'CI/CD', 'kotlin', 'java', 'dart', 'python'].map(skill => (
                     <span key={skill} className="px-3 py-1 bg-slate-900 rounded-full text-xs font-medium text-cyan-300 border border-slate-700">{skill}</span>
                   ))}
                 </div>
